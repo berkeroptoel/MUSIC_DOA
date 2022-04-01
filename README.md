@@ -4,3 +4,4 @@ Music algorithm
 * Multiple source   
 https://www.mathworks.com/help/phased/ref/musicdoa.html#bvdoftl-covmat  
 https://www.mathworks.com/help/phased/ref/rootmusicdoa.html  
+https://www.mathworks.com/help/matlab/ref/eig.html  
